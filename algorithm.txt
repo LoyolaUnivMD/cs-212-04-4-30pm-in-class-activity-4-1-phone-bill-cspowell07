@@ -1,1 +1,6 @@
-THINK before you code...
+Ask for package
+Ask for data used
+If green or blue or purple continue
+green - ask for cupon and calculate price
+blue - do calculation
+purple - bill = 99.95
